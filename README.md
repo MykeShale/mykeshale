@@ -7,8 +7,6 @@
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mykeshale.mykeshale)
 
-   [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-  
    [![GitHub followers](https://img.shields.io/github/followers/MykeShale?label=Follow&style=social)](https://github.com/MykeShale) 
   
   <img src="https://komarev.com/ghpvc/?username=mykeshale&&style=flat-square" align="center" />
@@ -41,13 +39,25 @@
 
   </div>
 
-  - :telescope: I’m a Data Science Enthusiast and Developer learning to build Web Applications.
+  - :telescope: I'm a Full Stack Software Engineer specializing in MERN and Next.js, a creative Front End Developer, and an innovative Graphic Designer.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I also explore Data Science & Analytics.
 
-- :zap: In my free time, I research more on problems and read Tech Articles.
+- :zap: In my free time, I research more on problems and read Tech Content Articles.
 
 
+
+## My Passion
+- **Full Stack (MERN & Next.js):** Crafting efficient backend solutions and designing responsive front-end interfaces. 🌍💻
+- **Front End Development:** Building modern, user-centered web applications. 🖥️✨
+- **Graphic Design:** Bringing creativity and unique visual perspectives to projects. 🎨🖌️
+
+## Tech Stack
+- **Languages:** JavaScript, TypeScript, HTML, CSS, SQL 📜
+- **Frontend:** React, Next.js, Tailwind CSS, SASS 🎨
+- **Backend:** Node.js, Express 🔧
+- **Databases:** MongoDB, PostgreSQL, MySQL 🗄️
+- **Tools:** Git, Docker, Jenkins, AWS, Azure, Figma, Adobe Creative Suite 🛠️
 
 ---
 
