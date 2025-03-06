@@ -81,6 +81,7 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mykeshale" alt="GitHub Streak" /></a>
 </div>
+<div>[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)</div>
 
 
 
