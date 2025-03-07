@@ -86,7 +86,8 @@
 
 <div style="display: flex; flex-direction: row;", align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=mykeshale&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykeshale&theme=vision-friendly-dark&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykeShale&theme=vision-friendly-dark&layout=compact" />
 </div>
+
 
 
