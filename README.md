@@ -3,15 +3,7 @@
 
   
   
-   <div align="center">
-  
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mykeshale.mykeshale)
-
-   [![GitHub followers](https://img.shields.io/github/followers/MykeShale?label=Follow&style=social)](https://github.com/MykeShale) 
-  
-  <img src="https://komarev.com/ghpvc/?username=mykeshale&&style=flat-square" align="center" />
-  
-  </div>
+ 
  ---
   
   <div id="badges"align="center">
