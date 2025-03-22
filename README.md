@@ -21,7 +21,9 @@
   
   ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Myke😊
 
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D15&width=435&height=60&lines=A+Fullstack+Web+%26+App+Developer+%F0%9F%96%A5%EF%B8%8F%F0%9F%93%B1%F0%9F%92%BB;Experienced+UX%2FUI+Developer+%F0%9F%8E%A8%F0%9F%96%8C%EF%B8%8F%F0%9F%93%90;3+years+%2B+Coding+Experience%E2%8C%A8%EF%B8%8F%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%94%A2;A+Data+Science+Enthusiast%F0%9F%93%8A%F0%9F%93%88%F0%9F%A4%96;Always+Learning+%F0%9F%93%9A%F0%9F%9A%80%F0%9F%A7%A0" alt="Typing SVG" /></a>
+</div>
   </div>
 
   - :telescope: I'm a Full Stack Software Engineer specializing in MERN and Next.js, a creative Front End Developer, and an innovative Graphic Designer.
@@ -38,7 +40,6 @@
 - **Front End Development:** Building modern, user-centered web applications. 🖥️✨
 - **Graphic Design:** Bringing creativity and unique visual perspectives to projects. 🎨🖌️
 
-  
 
 ## Tech Stack 👨‍💻
 - **Languages:** JavaScript, TypeScript, HTML, CSS, SQL 📜
