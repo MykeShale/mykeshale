@@ -26,19 +26,25 @@
 </div>
   </div>
 
-  - :telescope: I'm a Full Stack Software Engineer specializing in MERN and Next.js, a creative Front End Developer, and an innovative Graphic Designer.
 
-- :seedling: I also explore Data Science & Analytics.
+## 🏆 About Me  
+I'm a **Full Stack Developer** specializing in **MERN (MongoDB, Express, React, Node.js) & Next.js**, with a passion for building scalable backend solutions and designing modern, responsive front-end applications.  
 
-- :zap: In my free time, I research more on problems and read Tech Content Articles.
+## 🔥 Skills & Expertise  
+- **💻 Full Stack Development (MERN & Next.js):** Creating robust backend systems and seamless user interfaces.  
+- **🖥️ Front End Development:** Designing intuitive, user-centric web applications.  
+- **🎨 UI/UX Design:** Enhancing user experiences through well-researched and visually appealing interfaces.  
+- **🖌️ Graphic Design:** Bringing creativity and unique visuals to projects.  
+- **📊 Data Science & Analytics:** Exploring data-driven insights to improve decision-making.  
 
+## 🎯 Focus on User Experience  
+I believe that a great product is not just about functionality but also **usability and aesthetics**. I apply **UI/UX principles** to ensure engaging and intuitive digital experiences.  
 
+## 📚 Continuous Learning  
+I’m always researching new challenges and staying updated by reading **tech content and articles**. My curiosity and passion drive me to push the boundaries of technology.  
 
+💡 *Let's innovate and build something amazing together!* 🚀⚡  
 
-## My Passion 🦾
-- **Full Stack (MERN & Next.js):** Crafting efficient backend solutions and designing responsive front-end interfaces. 🌍💻
-- **Front End Development:** Building modern, user-centered web applications. 🖥️✨
-- **Graphic Design:** Bringing creativity and unique visual perspectives to projects. 🎨🖌️
 
 
 ## Tech Stack 👨‍💻
