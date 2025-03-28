@@ -37,14 +37,17 @@ I'm a **Full Stack Developer** specializing in **MERN (MongoDB, Express, React, 
 - **🖌️ Graphic Design:** Bringing creativity and unique visuals to projects.  
 - **📊 Data Science & Analytics:** Exploring data-driven insights to improve decision-making.  
 
-## 🎯 Focus on User Experience  
-I believe that a great product is not just about functionality but also **usability and aesthetics**. I apply **UI/UX principles** to ensure engaging and intuitive digital experiences.  
+## :fire: My Git Streaks :
 
-## 📚 Continuous Learning  
-I’m always researching new challenges and staying updated by reading **tech content and articles**. My curiosity and passion drive me to push the boundaries of technology.  
+![](https://nirzak-streak-stats.vercel.app/?user=MykeShale&theme=dark&hide_border=false)<br/><br>
 
-💡 *Let's innovate and build something amazing together!* 🚀⚡  
 
+<h2> GitHub Stats && Languages: <h2>
+
+<div style="display: flex; flex-direction: row;", align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=mykeshale&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykeShale&theme=vision-friendly-dark&layout=compact" />
+</div>
 
 
 ## Tech Stack 👨‍💻
@@ -75,17 +78,7 @@ I’m always researching new challenges and staying updated by reading **tech co
 
 
 
-## :fire: My Git Streaks :
 
-![](https://nirzak-streak-stats.vercel.app/?user=MykeShale&theme=dark&hide_border=false)<br/><br>
-
-
-<h2> GitHub Stats && Languages: <h2>
-
-<div style="display: flex; flex-direction: row;", align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=mykeshale&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykeShale&theme=vision-friendly-dark&layout=compact" />
-</div>
 
 
 
