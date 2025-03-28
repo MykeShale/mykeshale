@@ -24,38 +24,25 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D15&width=435&height=60&lines=A+Fullstack+Web+%26+App+Developer+%F0%9F%96%A5%EF%B8%8F%F0%9F%93%B1%F0%9F%92%BB;Experienced+UX%2FUI+Developer+%F0%9F%8E%A8%F0%9F%96%8C%EF%B8%8F%F0%9F%93%90;3+years+%2B+Coding+Experience%E2%8C%A8%EF%B8%8F%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%94%A2;A+Data+Science+Enthusiast%F0%9F%93%8A%F0%9F%93%88%F0%9F%A4%96;Always+Learning+%F0%9F%93%9A%F0%9F%9A%80%F0%9F%A7%A0" alt="Typing SVG" /></a>
 </div>
-  </div>
 
 
-## 🏆 About Me  
+## 🏆 About Me:
 I'm a **Full Stack Developer** specializing in **MERN (MongoDB, Express, React, Node.js) & Next.js**, with a passion for building scalable backend solutions and designing modern, responsive front-end applications.  
 
-## 🔥 Skills & Expertise  
-- **💻 Full Stack Development (MERN & Next.js):** Creating robust backend systems and seamless user interfaces.  
-- **🖥️ Front End Development:** Designing intuitive, user-centric web applications.  
-- **🎨 UI/UX Design:** Enhancing user experiences through well-researched and visually appealing interfaces.  
-- **🖌️ Graphic Design:** Bringing creativity and unique visuals to projects.  
-- **📊 Data Science & Analytics:** Exploring data-driven insights to improve decision-making.  
-
-## :fire: My Git Streaks :
-
-![](https://nirzak-streak-stats.vercel.app/?user=MykeShale&theme=dark&hide_border=false)<br/><br>
-
-
-<h2> GitHub Stats && Languages: <h2>
-
-<div style="display: flex; flex-direction: row;", align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=mykeshale&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykeShale&theme=vision-friendly-dark&layout=compact" />
-</div>
+## 🔥 Skills & Expertise:
+ **💻 Full Stack Development (MERN & Next.js):** Creating robust backend systems and seamless user interfaces.  <br>
+ **🖥️ Front End Development:** Designing intuitive, user-centric web applications.  <br>
+ **🎨 UI/UX Design:** Enhancing user experiences through well-researched and visually appealing interfaces.  <br>
+ **🖌️ Graphic Design:** Bringing creativity and unique visuals to projects.  <br>
+ **📊 Data Science & Analytics:** Exploring data-driven insights to improve decision-making.  <br>
 
 
 ## Tech Stack 👨‍💻
-- **Languages:** JavaScript, TypeScript, HTML, CSS, SQL 📜
-- **Frontend:** React, Next.js, Tailwind CSS, SASS 🎨
-- **Backend:** Node.js, Express 🔧
-- **Databases:** MongoDB, PostgreSQL, MySQL 🗄️
-- **Tools:** Git, Docker, Jenkins, AWS, Azure, Figma, Adobe Creative Suite 🛠️
+ **Languages:** JavaScript, TypeScript, HTML, CSS, SQL 📜<br>
+ **Frontend:** React, Next.js, Tailwind CSS, SASS 🎨<br>
+ **Backend:** Node.js, Express 🔧<br>
+ **Databases:** MongoDB, PostgreSQL, MySQL 🗄️<br>
+ **Tools:** Git, Docker, Jenkins, AWS, Azure, Figma, Adobe Creative Suite 🛠️<br>
 
 ---
 
@@ -75,7 +62,17 @@ I'm a **Full Stack Developer** specializing in **MERN (MongoDB, Express, React, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <br/><br>
 
+## :fire: My Git Streaks :
 
+![](https://nirzak-streak-stats.vercel.app/?user=MykeShale&theme=dark&hide_border=false)<br/><br>
+
+
+<h2> GitHub Stats && Languages: <h2>
+
+<div style="display: flex; flex-direction: row;", align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=mykeshale&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykeShale&theme=vision-friendly-dark&layout=compact" />
+</div>
 
 
 
