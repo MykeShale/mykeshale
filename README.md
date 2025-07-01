@@ -32,7 +32,7 @@
  **Data Science & Analytics:** Exploring data-driven insights to improve decision-making.  <br><br>
 
 
-## 👨‍💻Favourite Tech Stack 
+## 💻Favourite Tech Stack 
  **Languages:** JavaScript, TypeScript, Python, HTML, CSS, SQL 📜<br>
  **Frontend:** React, Next.js, Tailwind CSS, SASS 🎨<br>
  **Backend:** Node.js, Express, Django 🔧<br>
