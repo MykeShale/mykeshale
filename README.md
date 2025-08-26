@@ -23,15 +23,22 @@
   </a>
 </div>
 
----
 
+
+<h3 align="center">
+  I know you will view my profile here 👉 <a href="https://mike-ayoti.vercel.app/">My Portfolio 🥹</a>
+</h3>
+
+
+<div align="center">
+  <br>
+  
 ## 👨‍💻 About Me:
 🎯 **Full Stack Software Engineer** with a passion for building impactful web & app solutions.  
 🎨 **UI/UX Designer** focused on creating smooth, user-centered experiences.  
 📊 **Data Science Enthusiast** exploring real-world insights with Python.  
 🚀 Lifelong learner always expanding skills across technology and design.  
 
----
 
 ## 🛠️ Tech & Tools I Use:
 **Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS  
@@ -41,22 +48,19 @@
 **Design:** Figma, Adobe XD, Photoshop, Illustrator  
 **Others:** Git, Docker, Jenkins, REST APIs  
 
----
 
 ## 💼 What I Build:
-- Scalable **full-stack web apps** using the MERN & Next.js stack  
-- **Dashboards** and **admin panels** with clean UI/UX  
-- **Data-driven apps** for analytics & automation using Python  
-- **Creative designs** that bridge tech and art  
+Scalable **full-stack web apps** using the MERN & Next.js stack  
+**Dashboards** and **admin panels** with clean UI/UX  
+**Data-driven apps** for analytics & automation using Python  
+**Creative designs** that bridge tech and art  
 
----
 
 ## 🔥 GitHub Streak:
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=MykeShale&theme=dark&hide_border=false" />
 </div>
 
----
 
 ## 📈 GitHub Stats & Languages:
 <div align="center">
@@ -64,7 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykeShale&theme=vision-friendly-dark&layout=compact" />
 </div>
 
----
 
 ## 🧠 Tools & Framework Badges:
 <div align="center">
@@ -87,12 +90,5 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 </div>
-
----
-
-## 🤝 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/myke-shale/)
-- 📸 [Instagram](https://www.instagram.com/myke.shale/)
-- 📘 [Facebook](https://facebook.com/mykeshale)
 
 ---
