@@ -12,7 +12,6 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
-
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Hey, I'm Myke 😊
@@ -37,38 +36,11 @@
 🎯 **Full Stack Software Engineer** with a passion for building impactful web & app solutions.  
 🎨 **UI/UX Designer** focused on creating smooth, user-centered experiences.  
 📊 **Data Science Enthusiast** exploring real-world insights with Python.  
-🚀 Lifelong learner always expanding skills across technology and design.  
 
-
-## 🛠️ Tech & Tools I Use:
-**Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS  
-**Frontend:** React, Next.js, Tailwind CSS, SASS  
-**Backend:** Node.js, Express, Django, Flask  
+**Frontend/Backend:** React, Next.js, Tailwind CSS, Node.js, Express  
 **Databases:** MongoDB, PostgreSQL, MySQL  
 **Design:** Figma, Adobe XD, Photoshop, Illustrator  
-**Others:** Git, Docker, Jenkins, REST APIs  
-
-
-## 💼 What I Build:
-Scalable **full-stack web apps** using the MERN & Next.js stack  
-**Dashboards** and **admin panels** with clean UI/UX  
-**Data-driven apps** for analytics & automation using Python  
-**Creative designs** that bridge tech and art  
-
-
-## 🔥 GitHub Streak:
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MykeShale&theme=dark&hide_border=false" />
-</div>
-
-
-## 📈 GitHub Stats & Languages:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mykeshale&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykeShale&theme=vision-friendly-dark&layout=compact" />
-</div>
-
-
+<br>
 ## 🧠 Tools & Framework Badges:
 <div align="center">
 
@@ -90,5 +62,16 @@ Scalable **full-stack web apps** using the MERN & Next.js stack
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 </div>
+<br>
 
----
+
+## 🔥 GitHub Streak:
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MykeShale&theme=dark&hide_border=false" />
+</div>
+<br>
+
+
+## 📊 My Growth Curve:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mykeshale&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
