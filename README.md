@@ -73,5 +73,5 @@
 
 
 ## 📊 My Growth Curve:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mykeshale&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mykeshale&bg_color=171616&color=007ec6&line=fb8c00&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
